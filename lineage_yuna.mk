@@ -16,14 +16,14 @@ $(call inherit-product, vendor/lineage/config/common_full_tv.mk)
 $(call inherit-product, $(LOCAL_PATH)/device.mk)
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_BRAND := Amlogic
-PRODUCT_DEVICE := oppen
-PRODUCT_GMS_CLIENTID_BASE := android-onn-tv
-PRODUCT_MANUFACTURER := Amlogic
-PRODUCT_MODEL := oppen
-PRODUCT_NAME := lineage_oppen
+PRODUCT_BRAND := VNPTTechnology
+PRODUCT_DEVICE := yuna
+PRODUCT_GMS_CLIENTID_BASE := android-sdmc-tv
+PRODUCT_MANUFACTURER := SDMC
+PRODUCT_MODEL := VNPT SmartBox 3
+PRODUCT_NAME := lineage_yuna
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BuildDesc="onn_4k_gtv-user 14 URO4.260304.011.B1 15051976 release-keys" \
-    BuildFingerprint=onn/onn_4k_gtv/YOC:14/URO4.260304.011.B1/15051976:user/release-keys \
-    SystemName=oppen
+    BuildDesc="oppen-user 14 UKG3.250518.001 20251021 release-keys" \
+    BuildFingerprint=VNPTTechnology/vnptt_smb_3/vnptt_smb_3:14/UKG/20251024:user/release-keys \
+    SystemName=vnptt_smb_3

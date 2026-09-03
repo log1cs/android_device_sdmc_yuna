@@ -41,8 +41,8 @@ extract_fns: extract_fns_user_type = {
 }
 
 module = ExtractUtilsModule(
-    'oppen',
-    'amlogic',
+    'yuna',
+    'sdmc',
     blob_fixups=blob_fixups,
     namespace_imports=namespace_imports,
     add_firmware_proprietary_file=True,
