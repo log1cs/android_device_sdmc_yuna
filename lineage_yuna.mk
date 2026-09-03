@@ -24,6 +24,6 @@ PRODUCT_MODEL := VNPT SmartBox 3
 PRODUCT_NAME := lineage_yuna
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BuildDesc="oppen-user 14 UKG3.250518.001 20251021 release-keys" \
-    BuildFingerprint=VNPTTechnology/vnptt_smb_3/vnptt_smb_3:14/UKG/20251024:user/release-keys \
+    BuildDesc="oppen-user 14 UKG3.250826.001 20260708 release-keys" \
+    BuildFingerprint=VNPTTechnology/vnptt_smb_3/vnptt_smb_3:14/UKG/20260622:user/release-keys \
     SystemName=vnptt_smb_3

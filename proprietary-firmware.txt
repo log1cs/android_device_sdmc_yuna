@@ -1,4 +1,4 @@
 ## All firmware from this list, unless pinned and noted as otherwise,
-## are from vnptt_smb_3 (UKG3.250518.001).
+## are from vnptt_smb_3 (UKG3.250826.001).
 
 bootloader.img;AB
